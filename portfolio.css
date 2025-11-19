@@ -32,8 +32,6 @@ footer {
 }
 .head{
     object-fit: cover;
-    width: 1211px;
-    height: 426px;
     margin: 1px;
     max-width: 100%;
   display: block;
@@ -111,10 +109,6 @@ h3{
   align-items: center;
   gap: 12rem;
   object-fit: cover;
-    /* position: static;
-    display: inline-block;
-    object-fit: cover;
-    height: 150em; */
 }
 .skills img {
   object-fit: contain; 
